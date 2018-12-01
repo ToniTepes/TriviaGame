@@ -1,6 +1,6 @@
 body{
-    background: green;
-    color: orange;
+    background: black;
+    color: black;
     font-family: 'Arial', sans-serif;
     font-size: 14px;
 }
@@ -32,7 +32,7 @@ section{
 }
 
 #results h3{
-    background: red;
+    background: black;
     padding: 10px;
     margin: 10px 0;
 }
